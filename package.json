@@ -15,6 +15,7 @@
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0",
     "babel-preset-stage-0": "^6.16.0",
+    "deprecated-react-native-prop-types": "2.2.0",
     "eslint": "^3.12.0",
     "eslint-config-airbnb": "^13.0.0",
     "eslint-plugin-babel": "^4.0.0",
@@ -23,6 +24,7 @@
     "eslint-plugin-react": "^6.8.0"
   },
   "peerDependencies": {
+    "deprecated-react-native-prop-types": "^2.2.0",
     "react": ">=15.2.0",
     "react-native": ">=0.44.0"
   },
